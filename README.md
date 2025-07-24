@@ -4,16 +4,7 @@
 
 ## Objectives
 
-- **Analyze the distribution of content types**  
-  Understand the ratio of Movies vs TV Shows on Netflix.
-
-- **Identify the most common ratings for each content type**  
-  Determine the most frequently assigned ratings for both Movies and TV Shows.
-
-- **List and analyze content based on**:
-  - **Release Years** – Examine content trends over time.
-  - **Countries** – Identify top content-producing countries.
-  - **Durations** – Analyze movie lengths and number of TV show seasons.
-
-- **Explore and categorize content based on specific criteria and keywords**  
-  Use keywords (e.g., *"kill"*, *"violence"*) to classify content as *Good* or *Bad* for content insights and moderation.
+- Analyze the distribution of content types (movies vs TV shows).
+- Identify the most common ratings for movies and TV shows.
+- List and analyze content based on release years, countries, and durations.
+- Explore and categorize content based on specific criteria and keywords.
